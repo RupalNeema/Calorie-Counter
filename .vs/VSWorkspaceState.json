@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\myapp",
+    "\\myapp\\migrations",
+    "\\myapp\\templates\\myapp",
+    "\\mysite",
+    "\\static",
+    "\\static\\images",
+    "\\test",
+    "\\test\\Lib\\site-packages"
+  ],
+  "SelectedNode": "\\myapp\\migrations\\0001_initial.py",
+  "PreviewInSolutionExplorer": false
+}
